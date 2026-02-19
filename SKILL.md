@@ -1,16 +1,17 @@
 ---
 name: character-impersonation-satire
-description: "Create accurate impersonations that reveal intellectual vanity and private thoughts beneath public personas"
+description: Create accurate impersonations that reveal intellectual vanity and private thoughts beneath public personas
 license: MIT
 metadata:
-  version: 1.0.0"1.0.0"
-  author: "Seth Black"
+  version: 1.0.3569
+  author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - satire
-  - impersonation
-  - political-comedy
-  - character
-  - parody
+- satire
+- impersonation
+- political-comedy
+- character
+- parody
 ---
 
 # Character Impersonation Satire
